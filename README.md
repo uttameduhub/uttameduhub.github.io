@@ -1,4 +1,3 @@
-## Hello World!!! myself Uttam Suman
 
 ### Education
 - Civil Engineering B.Tech @ IIT Roorkee, INDIA
