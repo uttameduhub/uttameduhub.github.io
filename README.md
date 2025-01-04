@@ -23,5 +23,5 @@
 Quantum computing, Python programming, Machine learning
 
 ### Contacts
-email : uttamsuman.edu@gmail.com, uttamsuman@iisc.ac.in
-M : +91-7782981415 
+- email : uttamsuman.edu@gmail.com, uttamsuman@iisc.ac.in
+- M : +91-7782981415 
