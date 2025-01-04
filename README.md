@@ -46,9 +46,9 @@ Chess, cricket enthusiast, AmongUs
 ### Whereabouts
 
 ### Places Travelled
-New Delhi, Kolkata, Chennai, Jammu & Kashmir, Leh, Ladakh, Darjeeling, Andaman Islands.
+Gaya, Patna, Haridwar, New Delhi, Kolkata, Chennai, Jammu & Kashmir, Leh, Ladakh, Darjeeling, Andaman Islands.
 
 ### Contacts
-- email : uttamsuman.edu@gmail.com, uttamsuman@iisc.ac.in
+- Email : uttamsuman.edu@gmail.com, uttamsuman@iisc.ac.in
 - M : +91-7782981415
 - ORCID : https://orcid.org/0000-0002-8743-050X
