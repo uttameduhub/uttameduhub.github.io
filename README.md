@@ -16,11 +16,37 @@
 ### Upcoming Projects
 - Inverse Problems in physics
 - Optimization
+- Quantum Machine learning
 
-### Recommended Books
+### Recommended Books & Authors
+- Linear Algebra
+  - Hoffman & Kunze
+- Numerical Methods
+  - Jain Iyenger
+- Probability
+  - Papoulis & Pillai
+- Machine Learning
+  - Kevin Murphy, Aurelien Geron
+- Stochastic Filtering
+  - Debasish Roy & G V Rao, F C Klebenaur, Soren Asmussen, Handel
+- Mathematical Physics
+  - Hilbert Courant
+  - Richard Bellman
+- Plasticity
+  - Lubliner, Simo
+- Fracture Mechanics
+  - T L Anderson, Bazant
 
 ### Interests
 Quantum computing, Python programming, Machine learning
+
+### Hobbies
+Chess, cricket enthusiast, AmongUs
+
+### Whereabouts
+
+### Places Travelled
+New Delhi, Kolkata, Chennai, Jammu & Kashmir, Leh, Ladakh, Darjeeling, Andaman Islands.
 
 ### Contacts
 - email : uttamsuman.edu@gmail.com, uttamsuman@iisc.ac.in
