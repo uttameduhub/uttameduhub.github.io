@@ -38,12 +38,13 @@
   - T L Anderson, Bazant
 
 ### Interests
-Quantum computing, Python programming, Machine learning
+Quantum computing, Python programming, Machine learning, Data Science
 
 ### Hobbies
 Chess, cricket enthusiast, AmongUs
 
-### Whereabouts
+### Skills
+Python, Qiskit, Data Analytics
 
 ### Places Travelled
 Gaya, Patna, Haridwar, New Delhi, Kolkata, Chennai, Jammu & Kashmir, Leh, Ladakh, Darjeeling, Andaman Islands.
