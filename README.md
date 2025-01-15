@@ -38,7 +38,7 @@
   - T L Anderson, Bazant
 
 ### Interests
-Quantum computing, Python programming, Machine learning, Data Science
+Quantum computing, Machine learning, Data Science
 
 ### Hobbies
 Chess, cricket enthusiast, AmongUs
